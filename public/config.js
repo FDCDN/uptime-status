@@ -2,7 +2,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '云生站点监测',
+  SiteName: '方盾CDN节点监控',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
